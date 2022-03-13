@@ -1,0 +1,23 @@
+P0	0 T0 33 
+P1	2 T1 6 
+P-1	3 T2 21 
+P-1	7 T3 22 
+P-1	9 T4 21 
+P-1	10 T5 32 
+P1	20 T6 33 
+NMec = 97827
+Viable Sol. = 43
+Profit = 9788
+T = 7
+P = 2
+Profits not ignored
+Solution time = 6.782e-06
+Task data
+00    0  33  5682
+01    2   6   609
+02    3  21  2707
+03    7  22  1688
+04    9  21  2231
+05   10  32  2514
+06   20  33  3497
+End

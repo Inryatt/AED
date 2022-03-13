@@ -1,0 +1,24 @@
+recurse
+P0	2 T0 10 
+P-1	14 T1 33 
+P-1	18 T2 35 
+P0	19 T3 24 
+P-1	23 T4 41 
+P0	30 T5 37 
+P0	58 T6 67 
+NMec = 2020
+Viable Sol. = 28
+Profit = 4
+T = 7
+P = 1
+Profits ignored
+Solution time = 4.220009e-05
+Task data
+00    2  10     1
+01   14  33     1
+02   18  35     1
+03   19  24     1
+04   23  41     1
+05   30  37     1
+06   58  67     1
+End

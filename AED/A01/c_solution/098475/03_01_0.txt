@@ -1,0 +1,15 @@
+P0	6 T0 26 
+P-1	8 T1 13 
+P-1	11 T2 16 
+NMec = 98475
+Viable Sol. = 4
+Profit = 3810
+T = 3
+P = 1
+Profits not ignored
+Solution time = 8.536e-06
+Task data
+00    6  26  3810
+01    8  13   565
+02   11  16  1285
+End

@@ -1,0 +1,26 @@
+recurse
+P-1	3 T0 23 
+P0	5 T1 38 
+P-1	9 T2 21 
+P-1	16 T3 23 
+P0	43 T4 53 
+P0	54 T5 69 
+P-1	59 T6 65 
+P-1	63 T7 78 
+NMec = 2020
+Viable Sol. = 40
+Profit = 13001
+T = 8
+P = 1
+Profits not ignored
+Solution time = 1.115799e-04
+Task data
+00    3  23  2200
+01    5  38  7498
+02    9  21  1345
+03   16  23   798
+04   43  53  2102
+05   54  69  3401
+06   59  65  1449
+07   63  78  2892
+End

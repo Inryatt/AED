@@ -1,0 +1,24 @@
+recurse
+P0	6 T0 26 
+P1	8 T1 16 
+P2	11 T2 29 
+P3	12 T3 19 
+P4	16 T4 22 
+P1	18 T5 22 
+P3	20 T6 26 
+NMec = 2020
+Viable Sol. = 128
+Profit = 11016
+T = 7
+P = 6
+Profits not ignored
+Solution time = 1.668930e-04
+Task data
+00    6  26  2549
+01    8  16  1361
+02   11  29  1859
+03   12  19  1137
+04   16  22  1596
+05   18  22   716
+06   20  26  1798
+End

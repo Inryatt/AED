@@ -1,0 +1,2 @@
+files_to_process=( $(grep "End" 002020/* | awk -F ":" '{printf $1"\n"}') )
+:wq

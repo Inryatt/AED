@@ -1,0 +1,28 @@
+recurse
+P0	1 T0 9 
+P1	1 T1 21 
+P2	2 T2 18 
+P3	2 T3 19 
+P4	5 T4 9 
+P5	6 T5 22 
+P0	10 T6 20 
+P4	14 T7 29 
+P6	15 T8 18 
+NMec = 2020
+Viable Sol. = 512
+Profit = 9
+T = 9
+P = 8
+Profits ignored
+Solution time = 6.363392e-04
+Task data
+00    1   9     1
+01    1  21     1
+02    2  18     1
+03    2  19     1
+04    5   9     1
+05    6  22     1
+06   10  20     1
+07   14  29     1
+08   15  18     1
+End

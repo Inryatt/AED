@@ -1,0 +1,17 @@
+P0	0 T0 28 
+P1	1 T1 12 
+P2	2 T2 6 
+P2	9 T3 19 
+NMec = 97880
+Viable Sol. = 16
+Profit = 12292
+T = 4
+P = 6
+Profits not ignored
+Solution time = 8.018e-06
+Task data
+00    0  28  6391
+01    1  12  2026
+02    2   6  1234
+03    9  19  2641
+End

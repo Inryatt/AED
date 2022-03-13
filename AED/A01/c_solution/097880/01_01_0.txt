@@ -1,0 +1,11 @@
+P0	16 T0 17 
+NMec = 97880
+Viable Sol. = 2
+Profit = 230
+T = 1
+P = 1
+Profits not ignored
+Solution time = 4.419e-06
+Task data
+00   16  17   230
+End

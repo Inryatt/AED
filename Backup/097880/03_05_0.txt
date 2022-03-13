@@ -1,0 +1,15 @@
+P0	3 T0 22 
+P1	5 T1 21 
+P2	19 T2 27 
+NMec = 97880
+Viable Sol. = 8
+Profit = 7751
+T = 3
+P = 5
+Profits not ignored
+Solution time = 7.930e-06
+Task data
+00    3  22  2517
+01    5  21  4364
+02   19  27   870
+End

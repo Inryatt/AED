@@ -1,0 +1,19 @@
+P0	0 T0 7 
+P1	6 T1 16 
+P0	8 T2 20 
+P2	16 T3 28 
+P1	19 T4 29 
+NMec = 97880
+Viable Sol. = 32
+Profit = 8416
+T = 5
+P = 7
+Profits not ignored
+Solution time = 1.088e-05
+Task data
+00    0   7   784
+01    6  16   742
+02    8  20  3573
+03   16  28  1447
+04   19  29  1870
+End

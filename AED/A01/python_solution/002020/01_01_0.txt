@@ -1,0 +1,12 @@
+recurse
+P0	6 T0 18 
+NMec = 2020
+Viable Sol. = 2
+Profit = 1608
+T = 1
+P = 1
+Profits not ignored
+Solution time = 5.722046e-06
+Task data
+00    6  18  1608
+End

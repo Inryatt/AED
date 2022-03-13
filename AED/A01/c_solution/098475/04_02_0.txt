@@ -1,0 +1,17 @@
+P-1	0 T0 20 
+P0	0 T1 22 
+P-1	3 T2 27 
+P1	9 T3 22 
+NMec = 98475
+Viable Sol. = 11
+Profit = 5282
+T = 4
+P = 2
+Profits not ignored
+Solution time = 8.596e-06
+Task data
+00    0  20  2012
+01    0  22  3223
+02    3  27  1872
+03    9  22  2059
+End

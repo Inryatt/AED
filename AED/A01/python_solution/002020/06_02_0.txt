@@ -1,0 +1,22 @@
+recurse
+P-1	2 T0 24 
+P-1	4 T1 21 
+P0	4 T2 28 
+P1	4 T3 29 
+P-1	5 T4 21 
+P-1	17 T5 19 
+NMec = 2020
+Viable Sol. = 22
+Profit = 9353
+T = 6
+P = 2
+Profits not ignored
+Solution time = 6.556511e-05
+Task data
+00    2  24  1855
+01    4  21  3441
+02    4  28  5512
+03    4  29  3841
+04    5  21  3162
+05   17  19   394
+End

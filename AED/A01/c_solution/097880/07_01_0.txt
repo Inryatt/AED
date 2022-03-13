@@ -1,0 +1,23 @@
+P-1	0 T0 69 
+P0	2 T1 27 
+P-1	11 T2 28 
+P-1	19 T3 65 
+P0	37 T4 42 
+P0	47 T5 56 
+P0	61 T6 66 
+NMec = 97880
+Viable Sol. = 26
+Profit = 9659
+T = 7
+P = 1
+Profits not ignored
+Solution time = 1.395e-05
+Task data
+00    0  69  9166
+01    2  27  7177
+02   11  28  1828
+03   19  65  8866
+04   37  42  1002
+05   47  56   696
+06   61  66   784
+End

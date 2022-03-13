@@ -1,0 +1,23 @@
+P0	3 T0 7 
+P1	6 T1 32 
+P0	10 T2 17 
+P-1	15 T3 22 
+P-1	15 T4 26 
+P0	21 T5 30 
+P-1	25 T6 30 
+NMec = 2020
+Viable Sol. = 66
+Profit = 8621
+T = 7
+P = 2
+Profits not ignored
+Solution time = 1.591e-04
+Task data
+00    3   7   646
+01    6  32  4191
+02   10  17  2154
+03   15  22   863
+04   15  26  1774
+05   21  30  1630
+06   25  30   907
+End

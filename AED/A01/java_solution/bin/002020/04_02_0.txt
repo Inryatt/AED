@@ -1,0 +1,17 @@
+P-1	3 T0 20 
+P0	11 T1 27 
+P-1	14 T2 23 
+P1	16 T3 29 
+NMec = 2020
+Viable Sol. = 11
+Profit = 5123
+T = 4
+P = 2
+Profits not ignored
+Solution time = 6.856e-05
+Task data
+00    3  20  1507
+01   11  27  2117
+02   14  23  1082
+03   16  29  3006
+End

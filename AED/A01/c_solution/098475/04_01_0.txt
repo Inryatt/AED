@@ -1,0 +1,17 @@
+P-1	7 T0 25 
+P-1	8 T1 21 
+P0	11 T2 26 
+P-1	14 T3 25 
+NMec = 98475
+Viable Sol. = 5
+Profit = 3521
+T = 4
+P = 1
+Profits not ignored
+Solution time = 1.043e-05
+Task data
+00    7  25  1699
+01    8  21  2041
+02   11  26  3521
+03   14  25  3016
+End

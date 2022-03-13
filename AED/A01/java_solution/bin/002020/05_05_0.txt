@@ -1,0 +1,19 @@
+P0	0 T0 17 
+P1	4 T1 10 
+P1	11 T2 19 
+P2	15 T3 23 
+P0	18 T4 26 
+NMec = 2020
+Viable Sol. = 32
+Profit = 7294
+T = 5
+P = 5
+Profits not ignored
+Solution time = 1.033e-04
+Task data
+00    0  17  2788
+01    4  10   939
+02   11  19  1490
+03   15  23   926
+04   18  26  1151
+End

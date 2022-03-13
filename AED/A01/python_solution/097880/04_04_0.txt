@@ -1,0 +1,18 @@
+recurse
+P0	0 T0 8 
+P1	2 T1 8 
+P2	6 T2 29 
+P0	15 T3 20 
+NMec = 97880
+Viable Sol. = 16
+Profit = 4892
+T = 4
+P = 4
+Profits not ignored
+Solution time = 3.290176e-05
+Task data
+00    0   8   753
+01    2   8   493
+02    6  29  2947
+03   15  20   699
+End

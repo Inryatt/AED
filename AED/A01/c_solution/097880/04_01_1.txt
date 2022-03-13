@@ -1,0 +1,17 @@
+P0	5 T0 19 
+P-1	16 T1 22 
+P-1	1 T2 26 
+P-1	12 T3 28 
+NMec = 97880
+Viable Sol. = 0
+Profit = 1
+T = 4
+P = 1
+Profits ignored
+Solution time = 6.561e-06
+Task data
+00    5  19     1
+01   16  22     1
+02    1  26     1
+03   12  28     1
+End

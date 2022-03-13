@@ -1,0 +1,13 @@
+P0	0 T0 7 
+P1	5 T1 27 
+NMec = 98475
+Viable Sol. = 4
+Profit = 4397
+T = 2
+P = 8
+Profits not ignored
+Solution time = 9.771e-06
+Task data
+00    0   7  1248
+01    5  27  3149
+End

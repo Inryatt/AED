@@ -1,0 +1,19 @@
+P0	1 T0 18 
+P-1	12 T1 20 
+P-1	13 T2 15 
+P1	13 T3 24 
+P-1	13 T4 25 
+NMec = 98475
+Viable Sol. = 16
+Profit = 4312
+T = 5
+P = 2
+Profits not ignored
+Solution time = 1.241e-05
+Task data
+00    1  18  2368
+01   12  20   756
+02   13  15   224
+03   13  24  1944
+04   13  25  1263
+End

@@ -1,0 +1,27 @@
+P-1	1 T0 29 
+P0	3 T1 12 
+P1	3 T2 17 
+P2	5 T3 11 
+P3	8 T4 17 
+P4	10 T5 17 
+P0	23 T6 24 
+P0	25 T7 29 
+P1	27 T8 29 
+NMec = 2020
+Viable Sol. = 504
+Profit = 8
+T = 9
+P = 5
+Profits ignored
+Solution time = 8.542e-06
+Task data
+00    1  29     1
+01    3  12     1
+02    3  17     1
+03    5  11     1
+04    8  17     1
+05   10  17     1
+06   23  24     1
+07   25  29     1
+08   27  29     1
+End

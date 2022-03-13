@@ -1,0 +1,2 @@
+javac java_solution/*.java
+java java_solution.Main

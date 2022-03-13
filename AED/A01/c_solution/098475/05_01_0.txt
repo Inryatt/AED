@@ -1,0 +1,19 @@
+P-1	10 T0 25 
+P-1	11 T1 33 
+P0	13 T2 27 
+P0	32 T3 42 
+P-1	37 T4 41 
+NMec = 98475
+Viable Sol. = 11
+Profit = 2816
+T = 5
+P = 1
+Profits not ignored
+Solution time = 8.556e-06
+Task data
+00   10  25  1562
+01   11  33  2298
+02   13  27  1584
+03   32  42  1232
+04   37  41   428
+End

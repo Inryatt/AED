@@ -1,0 +1,23 @@
+P0	3 T0 19 
+P1	3 T1 26 
+P2	4 T2 29 
+P3	9 T3 27 
+P4	14 T4 26 
+P-1	14 T5 27 
+P5	18 T6 29 
+NMec = 97827
+Viable Sol. = 127
+Profit = 18720
+T = 7
+P = 6
+Profits not ignored
+Solution time = 1.580e-05
+Task data
+00    3  19  2598
+01    3  26  2597
+02    4  29  6339
+03    9  27  3205
+04   14  26  1890
+05   14  27  1862
+06   18  29  2091
+End

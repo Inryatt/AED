@@ -1,0 +1,23 @@
+P0	1 T0 5 
+P0	13 T1 24 
+P1	15 T2 17 
+P2	15 T3 19 
+P3	15 T4 26 
+P1	19 T5 23 
+P0	26 T6 27 
+NMec = 2020
+Viable Sol. = 128
+Profit = 5767
+T = 7
+P = 5
+Profits not ignored
+Solution time = 8.218e-06
+Task data
+00    1   5   770
+01   13  24  1573
+02   15  17   433
+03   15  19   600
+04   15  26  1441
+05   19  23   696
+06   26  27   254
+End

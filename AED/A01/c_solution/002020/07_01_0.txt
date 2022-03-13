@@ -1,0 +1,23 @@
+P0	2 T0 10 
+P0	14 T1 33 
+P-1	18 T2 35 
+P-1	19 T3 24 
+P-1	23 T4 41 
+P-1	30 T5 37 
+P0	58 T6 67 
+NMec = 2020
+Viable Sol. = 28
+Profit = 5011
+T = 7
+P = 1
+Profits not ignored
+Solution time = 5.447e-06
+Task data
+00    2  10   970
+01   14  33  2736
+02   18  35  1589
+03   19  24   628
+04   23  41  1107
+05   30  37   971
+06   58  67  1305
+End

@@ -1,0 +1,23 @@
+P0	0 T0 23 
+P1	3 T1 25 
+P-1	4 T2 17 
+P2	4 T3 28 
+P3	6 T4 26 
+P-1	16 T5 28 
+P-1	17 T6 25 
+NMec = 2020
+Viable Sol. = 99
+Profit = 17274
+T = 7
+P = 4
+Profits not ignored
+Solution time = 6.892e-06
+Task data
+00    0  23  5041
+01    3  25  3165
+02    4  17  2650
+03    4  28  3872
+04    6  26  5196
+05   16  28  1465
+06   17  25  2423
+End

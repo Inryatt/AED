@@ -1,0 +1,22 @@
+recurse
+P-1	1 T0 43 
+P-1	7 T1 13 
+P0	7 T2 55 
+P-1	30 T3 33 
+P-1	31 T4 40 
+P-1	42 T5 58 
+NMec = 97880
+Viable Sol. = 14
+Profit = 5757
+T = 6
+P = 1
+Profits not ignored
+Solution time = 3.647804e-05
+Task data
+00    1  43  4553
+01    7  13   627
+02    7  55  5757
+03   30  33   913
+04   31  40   903
+05   42  58  1485
+End
